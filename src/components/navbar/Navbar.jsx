@@ -6,10 +6,10 @@ import logo from '../../assets/logo.svg'
 const Menu = () => (
   <>
     <p><a href='#home'>Home</a></p>
-    <p><a href='#home'>Home</a></p>
-    <p><a href='#home'>Home</a></p>
-    <p><a href='#home'>Home</a></p>
-    <p><a href='#home'>Home</a></p>
+    <p><a href='#wgpt3'>What GPT3</a></p>
+    <p><a href='#features'>Open AI</a></p>
+    <p><a href='#features'>Case Studies</a></p>
+    <p><a href='#home'>Library</a></p>
   </>
 )
 
