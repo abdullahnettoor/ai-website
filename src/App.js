@@ -17,7 +17,6 @@ const App = () => {
       <Possibility/>
       <Cta/>
       <Blog/>
-      <Article/>
       <Footer/>
     </div>
   )
